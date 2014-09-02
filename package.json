@@ -1,0 +1,32 @@
+{
+  "family": "arale",
+  "name": "fullcalendar",
+  "version": "1.0.0",
+  "description": "由fullcalendar jquery plugin改编的日历组件",
+  "homepage": "http://arshaw.com/fullcalendar/",
+  "author": "Adam Shaw",
+  "maintainers": [
+    "奉雨"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xuyuan923/fullcalendar.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "fullcalendar.js",
+      "fullcalendar.css"
+    ],
+    "alias": {
+      "$": "$",
+      "moment": "gallery/moment/"
+      },
+    "devAlias": {},
+    "engines": {}
+  }
+}
